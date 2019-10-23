@@ -1,0 +1,11 @@
+F:\Studium\Softwaredesign\Test1\Exercises\Exercise_3\bin\Debug\netcoreapp3.0\Exercise_3.exe
+F:\Studium\Softwaredesign\Test1\Exercises\Exercise_3\bin\Debug\netcoreapp3.0\Exercise_3.deps.json
+F:\Studium\Softwaredesign\Test1\Exercises\Exercise_3\bin\Debug\netcoreapp3.0\Exercise_3.runtimeconfig.json
+F:\Studium\Softwaredesign\Test1\Exercises\Exercise_3\bin\Debug\netcoreapp3.0\Exercise_3.runtimeconfig.dev.json
+F:\Studium\Softwaredesign\Test1\Exercises\Exercise_3\bin\Debug\netcoreapp3.0\Exercise_3.dll
+F:\Studium\Softwaredesign\Test1\Exercises\Exercise_3\bin\Debug\netcoreapp3.0\Exercise_3.pdb
+F:\Studium\Softwaredesign\Test1\Exercises\Exercise_3\obj\Debug\netcoreapp3.0\Exercise_3.csprojAssemblyReference.cache
+F:\Studium\Softwaredesign\Test1\Exercises\Exercise_3\obj\Debug\netcoreapp3.0\Exercise_3.AssemblyInfoInputs.cache
+F:\Studium\Softwaredesign\Test1\Exercises\Exercise_3\obj\Debug\netcoreapp3.0\Exercise_3.AssemblyInfo.cs
+F:\Studium\Softwaredesign\Test1\Exercises\Exercise_3\obj\Debug\netcoreapp3.0\Exercise_3.dll
+F:\Studium\Softwaredesign\Test1\Exercises\Exercise_3\obj\Debug\netcoreapp3.0\Exercise_3.pdb
