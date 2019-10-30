@@ -23,19 +23,23 @@ namespace Exercise_3
 
             while (!winCondition)
             {
-            Start:
+          
                 Console.WriteLine(CreateField());
-
+  Start:
                 string setField = Convert.ToString(Console.ReadLine());
-                if (allowedInput.ToString().Contains(setField))
+                int pos = Array.IndexOf(allowedInput, setField);
+                if (pos>-1)
                 {
-                    Console.WriteLine(Player(setField[0], setField[1]));
+                     Console.WriteLine(Player(setField[0], setField[1]));
+                  
                 }
-                else
+                else if (!pos>-1)
                 {
-                    Console.WriteLine("screw you");
+                     Console.WriteLine("screw you");
+        
                     goto Start;
                 }
+                else if ( TicTacToe[(int)string.GetNumericValue(setField[0]),(int)string.GetNumericValue(setField[1])]) {}
             }
         }
 
@@ -83,7 +87,7 @@ namespace Exercise_3
 
 
             }
-            return CreateField();
+            return "player";
         }
 
 
